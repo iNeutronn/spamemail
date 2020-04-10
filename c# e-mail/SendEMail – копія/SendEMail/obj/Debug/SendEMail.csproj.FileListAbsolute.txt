@@ -1,0 +1,10 @@
+C:\Users\Mama\Documents\Visual Studio 2008\Projects\SendEMail\SendEMail\bin\Debug\SendEMail.exe
+C:\Users\Mama\Documents\Visual Studio 2008\Projects\SendEMail\SendEMail\bin\Debug\SendEMail.pdb
+C:\Users\Mama\Documents\Visual Studio 2008\Projects\SendEMail\SendEMail\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Mama\Documents\Visual Studio 2008\Projects\SendEMail\SendEMail\obj\Debug\SendEMail.exe
+C:\Users\Mama\Documents\Visual Studio 2008\Projects\SendEMail\SendEMail\obj\Debug\SendEMail.pdb
+C:\Users\groupC\Desktop\c# e-mail\SendEMail\SendEMail\obj\Debug\SendEMail.exe
+C:\Users\groupC\Desktop\c# e-mail\SendEMail\SendEMail\obj\Debug\SendEMail.pdb
+C:\Users\groupC\Desktop\c# e-mail\SendEMail\SendEMail\bin\Debug\SendEMail.exe
+C:\Users\groupC\Desktop\c# e-mail\SendEMail\SendEMail\bin\Debug\SendEMail.pdb
+C:\Users\groupC\Desktop\c# e-mail\SendEMail\SendEMail\obj\Debug\ResolveAssemblyReference.cache
